@@ -65,15 +65,6 @@ Summary: Blockchain is a decentralized ledger connecting blocks securely, useful
 Strength: Concise but sometimes oversimplified.
 Example (Zero-shot): “Blockchain is a secure digital record that connects data blocks in a chain. It allows direct transactions without banks and is widely used in cryptocurrencies. Other uses include tracking goods and managing records. Downsides include energy use and regulation.”
 
-## FINAL RESULT:
-```
-
-1.Best Accuracy: ChatGPT Few-shot & Claude Role-based
-2.Best Simplicity (Student-friendly): ChatGPT Role-based & Claude Role-based
-3.Best Coherence: Gemini Chain-of-Thought
-4.Fastest: Copilot Zero-shot
-5.Overall Winner (Balanced): Claude Role-based or ChatGPT Few-shot
-```
 
 ## RESULT TABLE:
 
@@ -88,6 +79,20 @@ Example (Zero-shot): “Blockchain is a secure digital record that connects data
 | Gemini   | Role-based          | 5        | 5         | 5          | 5     | 4               | 4.8       |
 | Claude   | Chain-of-Thought    | 5        | 5         | 4          | 4     | 4               | 4.4       |
 | Copilot  | Zero-shot           | 3        | 3         | 3          | 5     | 3               | 3.4       |
+
+## FINAL RESULT:
+
+
+1.Best Accuracy: ChatGPT Few-shot & Claude Role-based
+2.Best Simplicity (Student-friendly): ChatGPT Role-based & Claude Role-based
+3.Best Coherence: Gemini Chain-of-Thought
+4.Fastest: Copilot Zero-shot
+5.Overall Winner (Balanced): Claude Role-based or ChatGPT Few-shot
+
+<img width="2379" height="1180" alt="image" src="https://github.com/user-attachments/assets/9dbd9d76-9e4b-4100-b317-a7b8107e9c5b" />
+
+
+
 
 
 
