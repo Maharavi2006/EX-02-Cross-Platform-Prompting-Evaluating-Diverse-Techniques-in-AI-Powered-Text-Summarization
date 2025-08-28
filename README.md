@@ -23,7 +23,7 @@ User experience
 To evaluate AI-based summarization, we first selected a 500-word technical article on “The Basics of Blockchain Technology” containing definitions, features, working principles, and applications. Four prompting strategies were defined: zero-shot (direct summarization request), few-shot (providing sample summaries before the task), chain-of-thought (step-by-step reasoning before summarization), and role-based (acting as a professor explaining to students). These prompts were applied across four platforms — ChatGPT, Gemini, Claude, and Copilot. For each run, the generated summaries were recorded and analyzed. Evaluation was carried out based on accuracy, coherence, simplicity, speed, and user experience, each scored on a 1–5 scale. The results were tabulated by averaging scores for each combination of platform and prompting style. Finally, the outputs were compared to identify the best-performing combinations, highlighting which platforms and prompting methods offered the most effective, clear, and student-friendly summaries.
 
 ## Result
-```
+
 ## Platform 1: ChatGPT
 
 Zero-shot Prompt
@@ -64,7 +64,7 @@ Summary: Blockchain is a decentralized ledger connecting blocks securely, useful
 
 Strength: Concise but sometimes oversimplified.
 Example (Zero-shot): “Blockchain is a secure digital record that connects data blocks in a chain. It allows direct transactions without banks and is widely used in cryptocurrencies. Other uses include tracking goods and managing records. Downsides include energy use and regulation.”
-```
+
 ## FINAL RESULT:
 ```
 
